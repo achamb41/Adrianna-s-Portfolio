@@ -1,0 +1,12 @@
+/* CSS by Adrianna Chamberlain */
+/* Color Palette:
+   Primary: #59394E (Dark Purple)
+   Secondary: #F2F2F2 (Light Gray)
+   Accent: #56588C(Medium Purple)
+   Background: #656B8C (Light Purple)
+   Text: #0D0E26 (Dark Blue) */
+
+   /* GLOBAL (base) MOBILE FIRST */
+   body {
+    background-color: #656B8C;
+   }
